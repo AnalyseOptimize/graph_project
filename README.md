@@ -2,6 +2,8 @@
 Each '_graph.txt' file contains a graph that can be read by Networx library on python. These graphs are parsed (with 'graph_parser' script) members of communities on Russian social network Vk.com of theaters.
 Nodes represent followers of a community and edges - the friendship among them. So, two nodes are connected when they are in a friends list of each other.
 
+In `Graph_info.txt` number of missing points for each graph is present as well as group IDs which were parsed and total number of parsed members. Missing points always have zero degree centrality and can be removed to get meaningful results. 
+
 ## Description of the project
 There are three main sections of analysis: 
 1. Single graph (Moscow operetta) exploration to find common patters and get an overview how a community graph looks like.
