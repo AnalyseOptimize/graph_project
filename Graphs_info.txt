@@ -1,0 +1,8 @@
+Theater_name | group_id | (n_missing, n_total)
+Eterius | 89887347 | (2731, 10230)
+Vita | 212950161 | (339, 2207)
+Stairway | 77667840 | (6135, 13747)
+Bolshoy| 52257710 | (5509, 11999)
+Moscow operetta | 49349287 | (4963, 10589)
+Nations_theater | 169635298 | (26369, 34784)
+Matviychuk_company | 169602412| (1220, 4173)
